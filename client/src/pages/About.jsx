@@ -7,7 +7,7 @@ export default function About() {
         About GenEstate
       </h1>
       <p className="mb-4 text-slate-700">
-        GenEstate is a leading real estate agency that specializes in helping
+        GenEstate is leading real estate agency that specializes in helping
         clients buy, sell, and rent properties in the most desirable
         neighborhoods. Our team of experienced agents is dedicated to providing
         exceptional service and making the buying and selling process as smooth
